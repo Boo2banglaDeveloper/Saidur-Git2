@@ -70,6 +70,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <div id="container">
 	<h1>Welcome to CodeIgniter!</h1>
 <p>welcome to our wonder world</p>
+	<h1>Welcome to CodeIgniter!</h1>
+<p>welcome to our wonder world</p>
 	<div id="body">
 sy bangla is gold i love u
 	this is changed by saidur
