@@ -72,7 +72,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<div id="body">
 
-       sy bangla is gold i love u
+       my bangla is gold i love u
 	this is changed by saidur
 		<p>the page you are looking at is being generated dynamically by CodeIgniter.</p>
 
